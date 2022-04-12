@@ -1,0 +1,46 @@
+header{
+
+    background-color:rgb(100, 162, 250);
+    align-content:center;    
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(4, 17, 79);
+}
+.instruction {
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(4, 17, 79);
+}
+
+.escena {
+    background-color: beige;
+}
+
+.image {
+    text-align: center;    
+}
+
+h5 {
+    font-size: 21px;
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(8, 37, 99);
+}
+
+.buttons {
+    text-align:center;    
+}
+
+.option1 {
+    background-color: rgb(255, 85, 0);
+    padding: 10px;
+}
+
+.option2 {
+    background-color: rgb(44, 179, 98);
+    padding: 10px;
+}
